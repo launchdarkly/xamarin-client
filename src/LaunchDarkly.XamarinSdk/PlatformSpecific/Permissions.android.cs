@@ -27,8 +27,6 @@ using System.Threading.Tasks;
 using Android;
 using Android.Content.PM;
 using Android.OS;
-using Android.Support.V4.App;
-using Android.Support.V4.Content;
 
 namespace LaunchDarkly.Xamarin.PlatformSpecific
 {
